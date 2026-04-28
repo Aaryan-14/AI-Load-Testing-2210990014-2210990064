@@ -1,4 +1,4 @@
-# 🚀 AI-Based Load Testing Framework
+# 🚀 AI-Assisted Load Testing and Failure Prediction
 
 ## 📌 Project Information
 
