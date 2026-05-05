@@ -4,8 +4,10 @@
 
 - **Title:** AI-Assisted Load Testing and Failure Prediction  
 - **Type:** Research Paper   
-- **Current Status:** Submitted 
+- **Current Status:** Published 
 - **Institution:** Chitkara University Institute of Engineering and Technology  
+
+Published Paper Link: https://zenodo.org/records/20038249
 
 ## 👨‍💻 Team Details
 
